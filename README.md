@@ -5,7 +5,7 @@ Mostly sketches and notes to myself. [Skisse](https://yngtodd.github.io/skisse/)
 ![screenshot](https://github.com/yngtodd/skisse/tree/master/images/skisse_snapshot.png)
 
 <p align="center">
-    <img width="600" src="https://github.com/yngtodd/skisse/blob/master/images/skisse_snapshot.png">
+    <img width="900" src="https://github.com/yngtodd/skisse/blob/master/images/skisse_snapshot.png">
 </p>
 
 
