@@ -4,6 +4,11 @@ Mostly sketches and notes to myself. [Skisse](https://yngtodd.github.io/skisse/)
 
 ![screenshot](https://github.com/yngtodd/skisse/tree/master/images/skisse_snapshot.png)
 
+<p align="center">
+    <img width="300" src="https://github.com/yngtodd/skisse/blob/master/images/skisse_snapshot.png">
+</p>
+
+
 ## The End
 
 Like it? [Let me know](http://twitter.com/youngmtodd).<br/>
