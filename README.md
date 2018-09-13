@@ -1,8 +1,6 @@
 # Skisse 
 
-Mostly sketches and notes to myself. [Skisse](https://yngtodd.github.io/skisse/) means sketch or draft in Norwegian. 
-
-![screenshot](https://github.com/yngtodd/skisse/tree/master/images/skisse_snapshot.png)
+[Skisse](https://yngtodd.github.io/skisse/): sketch or draft. Mostly a collection of notes and sketches to myself. 
 
 <p align="center">
     <img width="900" src="https://github.com/yngtodd/skisse/blob/master/images/skisse_snapshot.png">
@@ -12,4 +10,3 @@ Mostly sketches and notes to myself. [Skisse](https://yngtodd.github.io/skisse/)
 ## The End
 
 Like it? [Let me know](http://twitter.com/youngmtodd).<br/>
-Want to see the source? [GitHub](https://github.com/yngtodd/skisse).
