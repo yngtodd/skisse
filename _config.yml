@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Skisse"
-description:      "Sketches."
+description:      "Sketches, notes, and drafts."
 url:              https://yngtodd.github.io/skisse # Site url, without a slash at the end.
 signoff:          "Todd" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
