@@ -14,6 +14,9 @@ links:
   - name:         About Me
     url:          /about
     external:     false
+  - name:         GitHub
+    url:          https://github.com/yngtodd
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
